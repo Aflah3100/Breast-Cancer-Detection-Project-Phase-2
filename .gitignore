@@ -1,0 +1,16 @@
+#Folders to be ignored
+
+benign_400X_images
+benign_400X_images     
+combined_malignant_400X
+benign_400X_resized                  
+Train_Images
+breakhis              
+malignant_400X_images
+combined_bengign_400X 
+malignant_400X_resized
+input_srcnn_images
+output_srcnn_images
+kaggle.json
+
+
